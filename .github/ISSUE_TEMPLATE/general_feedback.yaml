@@ -11,6 +11,7 @@ body:
   - type: textarea
     id: what-happened
     attributes:
+      label: Feedback
       description: Also tell us, whatever comes to your mind!
       placeholder: What you liked, what did not work, what is difficult to understan....
-      value: "- ..."        
+      value: "- ..."
