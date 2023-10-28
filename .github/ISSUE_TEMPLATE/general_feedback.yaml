@@ -1,5 +1,6 @@
 name: General Feedback
 description: Give some informal feedback.
+title: "[Feedback]: "
 labels: 
  - feedback
 body:
@@ -10,7 +11,6 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: W?
       description: Also tell us, whatever comes to your mind!
       placeholder: What you liked, what did not work, what is difficult to understan....
       value: "- ..."        
