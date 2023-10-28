@@ -2,3 +2,8 @@ name: General Feedback
 about: Give some informal feedback.
 labels: 
  - feedback
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to give this feedback!
