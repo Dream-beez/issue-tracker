@@ -1,8 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: General Feedback
+about: Give some informal feedback.
 title: ''
 labels: 'feedback'
 assignees: ''
-
 ---
