@@ -1,9 +1,10 @@
 ---
 name: 🛠️ Feature Request
 description: Suggest an idea to help us improve Dreambeez
-title: "[Feature]: "
+title: ""
 labels:
   - enhancement
+  - needs-triage
 
 body:
   - type: markdown
